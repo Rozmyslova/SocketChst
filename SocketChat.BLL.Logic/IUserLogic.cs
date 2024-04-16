@@ -11,5 +11,7 @@ namespace SocketChat.BLL.Logic
     {
         List<User> GetAll();
         void Add(User user);
+        //List<User> GetAll();
+        //void Add(User user);
     }
 }

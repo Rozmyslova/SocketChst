@@ -10,14 +10,33 @@ namespace SocketChat.BLL.Logic
 {
     public class UserLogic : IUserLogic
     {
-        public void Add(User user)
+        public async Task Add(User user)
         {
-            UserRepository.AddUser(user);
+            await UserRepository.AddUser(user);
         }
 
-        public List<User> GetAll()
+        public async Task<List<User>> GetAll()
         {
-            return UserRepository.GetAll();
+            return await UserRepository.GetAll();
         }
+
+        void IUserLogic.Add(User user)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<User> IUserLogic.GetAll()
+        {
+            throw new NotImplementedException();
+        }
+        //public void Add(User user)
+        //{
+        //    UserRepository.AddUser(user);
+        //}
+
+        //public List<User> GetAll()
+        //{
+        //    return UserRepository.GetAll();
+        //}
     }
 }

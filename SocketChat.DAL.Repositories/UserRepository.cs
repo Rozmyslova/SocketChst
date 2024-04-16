@@ -6,14 +6,25 @@ namespace SocketChat.DAL.Repositories
     {
         private static List<User> users = new List<User>();
 
-        public static List<User> GetAll()
+        public static async Task <List<User>> GetAll()
         {
             return users;
         }
 
-        public static void AddUser(User user)
+        public static async Task AddUser(User user)
         {
-            users.Add(user);
+           users.Add(user);
         }
+        //private static List<User> users = new List<User>();
+
+        //public static List<User> GetAll()
+        //{
+        //    return users;
+        //}
+
+        //public static void AddUser(User user)
+        //{
+        //    users.Add(user);
+        //}
     }
 }
