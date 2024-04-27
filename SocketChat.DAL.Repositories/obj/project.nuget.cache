@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o94cpXQsjxddoMJL3ncmBSuYjl+UWhGQlRUIIzTFgWvZ4gKaOyqqtbY69LaL3ASC6KC6uLiwPJd7iqMxYeYm/Q==",
+  "dgSpecHash": "YH9AMgfGN85Sp5xCHhu+q9QtHf4t4iuhizAa2NFdN6GYHI0Fg1YY4w+oYRPqsQGaWXOrXS4EAVidyez4xrqlDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj",
+  "projectFilePath": "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

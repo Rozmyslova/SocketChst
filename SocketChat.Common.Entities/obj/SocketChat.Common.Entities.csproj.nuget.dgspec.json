@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj": {}
+    "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj": {
+    "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
+        "projectUniqueName": "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
         "projectName": "SocketChat.Common.Entities",
-        "projectPath": "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\obj\\",
+        "projectPath": "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
+        "packagesPath": "C:\\Users\\Dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

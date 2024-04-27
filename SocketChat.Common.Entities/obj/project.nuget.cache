@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDymqi6I2DPQLE0TjRIXWymTz/2AGReCz4wnziBom4UaNBqZ0FLnNV2TQV5QgWvQ02lPXKXJ8LBz+4rzotXTBg==",
+  "dgSpecHash": "pnEMOEB1RBghASC9/BdS/mmyQaPioG2urW/c4pVvWHQgeuS+IBWOXh5WtnTCN+fsNDHnVvgk66zwRWxFzllwMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\BABUSHKA\\C#\\Ulearn\\Array\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
+  "projectFilePath": "C:\\Рабочая\\C#\\SocketChst\\MyProject\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
